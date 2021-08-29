@@ -26,6 +26,7 @@ body {
 
   .profile-pic {
     border-radius: 200%;
+    border: 2px solid #393E46;
     margin-top: 50px;
     width: 200px;  
   }
