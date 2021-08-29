@@ -19,6 +19,10 @@ body {
     color: #EEEEEE; 
   }
 
+  .bio{
+    padding-bottom: 15px;
+  }
+
   .profile-pic {
     border-radius: 50%;
     padding-top: 50px;
