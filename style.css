@@ -1,8 +1,50 @@
 body {
-    background-color: lightblue;
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: #222831;
+  }
+
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    text-align: center;
   }
   
   h1 {
-    color: navy;
-    margin-left: 20px;
+    color: #EEEEEE; 
   }
+
+  p {
+    color: #EEEEEE; 
+  }
+
+  .profile-pic {
+    border-radius: 50%;
+    padding-top: 50px;
+    width: 200px;  
+  }
+
+  a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+
+    color: #EEEEEE;
+    width: 150px;
+    border: 2px solid #EEEEEE;
+    padding: 10px 20px;
+    transition-duration: 0.4s;
+}
+
+a.button:hover {
+    background-color: #393E46; /* Green */
+    color: white;
+  }
+
+.Logos {
+    padding-left: 10px;
+    transform: translateY(20%);
+}
