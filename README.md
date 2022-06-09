@@ -1,4 +1,4 @@
-# nahum-damte-website
+# noah-constable-website
 linktree-style personal website to get desired personal information out easily
 
-check it out here: https://hoomzfwp.github.io/nahum-damte-website/
+check it out here: https://nwconstable.github.io/noah-constable-website/
